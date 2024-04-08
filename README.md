@@ -35,9 +35,9 @@ Tools & IDE's:
 Database:
 
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-<a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
 <a href="https://www.mongodb.com/docs/realm/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca" width="45" height="45" /></a>
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" width="45" height="45" />
+
 
 Cloud Service:
 
