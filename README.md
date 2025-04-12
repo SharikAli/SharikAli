@@ -11,11 +11,8 @@ Languages:
 <a href="https://developer.android.com/develop/ui/compose"><img src="https://github.com/SharikAli/SharikAli/assets/88836922/0fadc963-430c-4090-8b24-97d75a6542b4" width="45" height="45"></a>
 <a href="https://ktor.io/"><img src="https://skillicons.dev/icons?i=ktor" /></a>
 <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
-<a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
-<!--
 <a href="https://www.swift.org/"><img src="https://skillicons.dev/icons?i=swift" /></a>
--->
+
 
 Tools & IDE's:
 
