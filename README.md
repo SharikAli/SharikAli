@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Sharik Ali</h1>
 
-<h4 align="center">Senior Mobile developer with a passion for crafting intuitive and high-performing user-friendly mobile applications. With over 4+ years of hands-on experience in Native & Cross platform Mobile development, leveraging the latest tools and technologies to build robust solutions that delight users. Let's build something amazing together!</h4>
+<h4 align="center">Senior Mobile developer with a passion for crafting intuitive and high-performing user-friendly mobile applications. With over 5 years of hands-on experience in Native & Cross platform Mobile development, leveraging the latest tools and technologies to build robust solutions that delight users. Let's build something amazing together!</h4>
 
 Languages: 
 
